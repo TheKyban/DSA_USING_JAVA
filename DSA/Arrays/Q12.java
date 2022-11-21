@@ -1,6 +1,6 @@
 package DSA.Arrays;
 
-public class Q1 {
+public class Q12 {
     // Maximum and Minimum Element in a Array By Sorting
     static int MinAndMax(int[] arr) {
         int small = arr[0];
